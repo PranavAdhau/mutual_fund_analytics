@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+data/raw/
+data/processed/
+*.twbx
+*.hyper
