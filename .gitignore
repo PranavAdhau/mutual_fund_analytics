@@ -3,7 +3,6 @@ __pycache__/
 *.pyo
 *.pyd
 .env
-data/raw/
-data/processed/
+
 *.twbx
 *.hyper
