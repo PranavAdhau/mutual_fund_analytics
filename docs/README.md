@@ -1,7 +1,5 @@
 # 📈 Mutual Fund Analytics & Performance Dashboard (Finance & Investment Industry)
 
----
-
 ## 📌 Executive Summary
 
 **Business Problem:**
@@ -196,3 +194,4 @@ MUTUAL_FUND_ANALYTICS/
 └── README.md
 
 ```
+
