@@ -1,5 +1,7 @@
 # 📈 Mutual Fund Analytics & Performance Dashboard (Finance & Investment Industry)
 
+---
+
 ## 📌 Executive Summary
 
 **Business Problem:**
@@ -105,7 +107,7 @@ Details include:
 
 ![Drillthrough Fund View – Power BI Dashboard](tableau/screenshots/02_mutual_fund_drillthrough_fund_view.jpg)
 
---
+---
 
 ## 🛠️ Skills & Technologies
 
