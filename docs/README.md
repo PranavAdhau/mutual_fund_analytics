@@ -92,7 +92,7 @@ Features:
 * Filters – Investment Type, Fund Category, Period
 * Charts – NAV Trend, Risk vs Return Scatter, Fund Category Summary
 
-![Main Dashboard](tableau/screenshots/01_mutual_fund_performance_dashboard_overview.jpg)
+![Main Dashboard](tableau/screenshots/01_mutual_fund_performance_dashboard_overview.png)
 
 #### Drill-Through Fund View
 
@@ -194,4 +194,5 @@ MUTUAL_FUND_ANALYTICS/
 └── README.md
 
 ```
+
 
