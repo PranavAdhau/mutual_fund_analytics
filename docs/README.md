@@ -67,7 +67,7 @@ Tables include:
 
 #### 📘 ER Diagram:
 
-![ER Diagram](tableau/screenshots/mutual_fund_database_schema_er_diagram.jpg)
+![ER Diagram](powerBI/screenshots/mutual_fund_database_schema_er_diagram.png)
 
 
 ### 4️⃣ Automation
@@ -92,7 +92,7 @@ Features:
 * Filters – Investment Type, Fund Category, Period
 * Charts – NAV Trend, Risk vs Return Scatter, Fund Category Summary
 
-![Main Dashboard](tableau/screenshots/01_mutual_fund_performance_dashboard_overview.png)
+![Main Dashboard](powerBI/screenshots/01_mutual_fund_performance_dashboard_overview.png)
 
 #### Drill-Through Fund View
 
@@ -103,7 +103,7 @@ Details include:
 * Sortino vs Volatility bubble visualization
 * Table of recent daily returns
 
-![Drillthrough Fund View – Power BI Dashboard](tableau/screenshots/02_mutual_fund_drillthrough_fund_view.jpg)
+![Drillthrough Fund View – Power BI Dashboard](powerBI/screenshots/02_mutual_fund_drillthrough_fund_view.png)
 
 ---
 
@@ -194,5 +194,6 @@ MUTUAL_FUND_ANALYTICS/
 └── README.md
 
 ```
+
 
 
