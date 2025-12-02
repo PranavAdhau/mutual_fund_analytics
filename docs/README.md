@@ -67,7 +67,8 @@ Tables include:
 
 #### 📘 ER Diagram:
 
-![ER Diagram](powerBI/screenshots/mutual_fund_database_schema_er_diagram.png)
+![ER Diagram](https://github.com/PranavAdhau/mutual_fund_analytics/blob/main/powerBI/screenshots/mutual_fund_database_schema_er_diagram.png?raw=true)
+
 
 
 ### 4️⃣ Automation
@@ -194,6 +195,7 @@ MUTUAL_FUND_ANALYTICS/
 └── README.md
 
 ```
+
 
 
 
