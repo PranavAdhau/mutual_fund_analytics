@@ -104,7 +104,7 @@ Details include:
 * Sortino vs Volatility bubble visualization
 * Table of recent daily returns
 
-![Drillthrough Fund View](https://github.com/PranavAdhau/mutual_fund_analytics/blob/main/powerBI/screenshots/02_mutual_fund_drillthrough_fund_view.png?raw=true)
+![Drillthrough Fund View](https://github.com/PranavAdhau/mutual_fund_analytics/blob/main/powerBI/screenshots/02_drill_page.png?raw=true)
 
 ---
 
@@ -195,6 +195,7 @@ MUTUAL_FUND_ANALYTICS/
 └── README.md
 
 ```
+
 
 
 
