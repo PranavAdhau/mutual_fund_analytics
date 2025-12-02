@@ -93,7 +93,7 @@ Features:
 * Filters – Investment Type, Fund Category, Period
 * Charts – NAV Trend, Risk vs Return Scatter, Fund Category Summary
 
-![Main Dashboard](powerBI/screenshots/01_mutual_fund_performance_dashboard_overview.png)
+![Performance Dashboard Overview](https://github.com/PranavAdhau/mutual_fund_analytics/blob/main/powerBI/screenshots/01_mutual_fund_performance_dashboard_overview.png?raw=true)
 
 #### Drill-Through Fund View
 
@@ -104,7 +104,7 @@ Details include:
 * Sortino vs Volatility bubble visualization
 * Table of recent daily returns
 
-![Drillthrough Fund View – Power BI Dashboard](powerBI/screenshots/02_mutual_fund_drillthrough_fund_view.png)
+![Drillthrough Fund View](https://github.com/PranavAdhau/mutual_fund_analytics/blob/main/powerBI/screenshots/02_mutual_fund_drillthrough_fund_view.png?raw=true)
 
 ---
 
@@ -195,6 +195,7 @@ MUTUAL_FUND_ANALYTICS/
 └── README.md
 
 ```
+
 
 
 
